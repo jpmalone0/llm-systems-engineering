@@ -38,10 +38,18 @@ Create a `.env` file in the root directory to store your API keys:
 ```bash
 touch .env
 ```
+### 2. Configure Environment
+
+Create a .env file in the root directory to store your API keys:
+
+```bash
+touch .env
+```
 
 Add your keys to `.env`:
 
-```GOOGLE_API_KEY=your_gemini_api_key_here
+```Ini,TOML
+GOOGLE_API_KEY=your_gemini_api_key_here
 HF_TOKEN=your_huggingface_token_here
 ```
 ### 3. Run the Notebooks
