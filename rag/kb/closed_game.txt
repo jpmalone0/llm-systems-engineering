@@ -1,0 +1,35 @@
+A Closed Game (or Double Queen's Pawn Opening) is a chess opening that begins with the moves:
+
+1. d4 d5
+The move 1.d4 establishes center control and permits the development of the queen's bishop. Black's symmetrical response 1...d5 does the same. White's most common response is 2.c4, the Queen's Gambit, with the most frequent alternatives being 2.Nf3 and 2.Bf4.
+Unlike with the king's pawn openings, where the pawn on e4 is undefended after the first move, the pawn on d4 is protected by White's queen.The slight difference has a tremendous effect on the opening. For instance, whereas the King's Gambit is rarely played today at the highest levels of chess, the Queen's Gambit remains very popular at all levels of play.
+Compared with the king's pawn openings, transpositions between variations are more common in Closed Games. Play tends to be more positional compared to lines beginning 1.e4, but there are many sharp tactical lines as well.
+
+
+2.c4
+
+The most frequent Closed Game is the Queen's Gambit, which is entered when White plays 2.c4, or later by transposition, often with 2.Nf3 and then 3.c4. The gambit is arguably misnamed, since White can always regain the offered pawn if desired.
+In the Queen's Gambit Accepted, Black plays ...dxc4, giving up the center for free development and the chance to try to give White an isolated queen pawn with a subsequent ...c5 and ...cxd4. White will get active pieces and possibilities for the attack. Black has two popular ways to decline the pawn, the Slav Defense (2...c6) and the Queen's Gambit Declined (2...e6). Both of these moves lead to an immense forest of variations that can require a great deal of opening study to play well. Among the many possibilities in the Queen's Gambit Declined are the Orthodox Defense, Lasker Defense, the Cambridge Springs Defense, the Tartakower Variation, and the Tarrasch and Semi-Tarrasch Defenses.
+Black replies to the Queen's Gambit other than 2...dxc4, 2...c6, and 2...e6 are uncommon. The Chigorin Defense (2...Nc6) is playable but rare.
+The Symmetrical Defense (2...c5) is the most direct challenge to Queen's Gambit theory, but most opening theoreticians believe that Black cannot equalize with it, and consequently it is not popular. The Baltic Defense (2...Bf5) develops Black's queen bishop early in order to avoid confining it behind a pawn after a later ...e6. Although it is not trusted by most elite players, it has not been refuted and some very strong grandmasters have played it. The Albin Countergambit (2...e5) is generally considered too risky for top-level tournament play. Similarly, the Marshall Defense (2...Nf6) is very rarely seen in grandmaster play, as most theoreticians consider it inferior for Black.
+
+
+Other second moves for White
+Lines where White plays d4 but not c4 are usually described as Queen's Pawn Games. These include the Richter–Veresov Attack (2.Nc3 Nf6 3.Bg5) and Blackmar–Diemer Gambit (2.e4), both rarely played as they are considered too risky for serious games.
+Another possibility for White is to play an opening system such as the London System, Colle System, or Stonewall Attack. White develops aiming for a particular formation without great concern over how Black chooses to defend. For example, the London System is characterized by the moves Bf4, Nf3, e3, c3, and Nd2, in any order. Because of the lower need for memorization of opening theory, these systems are easy to learn and often seen in casual play, but are rarely used by professionals because Black is regarded as being able to equalize fairly easily, although Ding Liren used the London to defeat Ian Nepomniachtchi in the sixth game of the 2023 World Chess Championship. White may instead adopt a more flexible approach, however, rather than committing to the same initial moves.
+
+
+Examples
+
+
+See also
+Open Game (1.e4 e5)
+Semi-Open Game (1.e4 moves other than 1...e5)
+Semi-Closed Game (1.d4 moves other than 1...d5)
+Flank opening (1.c4, 1.Nf3, 1.f4, and others)
+Irregular chess opening
+
+
+References
+
+de Firmian, Nick (1999). Modern Chess Openings: MCO-14. Random House Puzzles & Games. ISBN 0-8129-3084-3.

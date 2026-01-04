@@ -1,0 +1,241 @@
+The Four Knights Game is a chess opening that begins with the moves:
+
+1. e4 e5
+2. Nf3 Nc6
+3. Nc3 Nf6
+This is the most common sequence, but the knights may develop in any order to reach the same position, but it is also frequently reached by transposition after other developing moves have been played, most notably from the Scotch Game (3.d4) after 3...exd4 4.Nxd4 Nf6 5.Nc3 (the main alternative to 5.e5). The most common continuations are 4.Bb5, the Spanish Variation, and 4.d4, the Scotch Variation.
+The Four Knights often leads to quiet positional play and has a drawish reputation, though there are also sharp variations. The opening is fairly popular with beginners who strictly adhere to the opening principle: "Develop knights before bishops." One of its practical advantages is that it can be played to avoid the theoretical lines of Petrov's Defence: after 1.e4 e5 2.Nf3 Nf6 3.Nc3, Black's best move is 3...Nc6.
+The Four Knights was a popular choice in the family of the Open Game in the 19th century. By the time of World War I, it had fallen in popularity. Ambitious players explored alternatives like the Ruy Lopez, which was believed to be a better attempt by White to exploit the advantage of the first move. In the 1990s, the opening saw a renaissance and is again frequently seen in the opening repertoire of players, even among grandmasters.
+
+
+Analysis
+A frequent theme is a series of exchanges on an open file. Examined in this article are the following common variations:
+
+4.Bb5 (Spanish Variation)
+4...Bb4 5.0-0 0-0 (Double Spanish Variation; Double Ruy Lopez)
+6.d3 d6 (Symmetrical Variation)
+7.Bg5 Bxc3 8.bxc3 Qe7 (Metger Unpin)
+7.Bg5 Ne7 (Pillsbury Variation)
+7.Bg5 Be6 (Tarrasch Variation)
+7.Ne2 (Maróczy System)
+6.d3 Bxc3 7.bxc3 (Janowski Variation)
+6.Bxc6 dxc6 (Nimzowitsch Variation)
+6.Nd5 Nxd5 7.exd5 e4 (Gunsberg Counterattack)
+6.Nd5 Bc5 7.d4 (Blackburne Attack)
+4...Nd4 (Rubinstein Countergambit)
+5.Ba4 (main line)
+5.Bc4 (modern line)
+5.Nxd4 exd4 (Exchange Variation)
+5.0-0 (Henneberger Variation)
+5.Nxe5 (Bogoljubov Variation)
+4...Bc5 (Classical Variation)
+4...d6
+4...Bd6
+4...a6 5.Bxc6 (Rankin Variation)
+4...a6 5.Ba4 (Ruy Lopez, Tarrasch Variation)
+4.d4 (Scotch Variation)
+4...exd4 5.Nxd4 (Scotch accepted)
+5...Bb4 6.Nxc6 bxc6 7.Bd3 (main line)
+5...Bc5 (modern line)
+5...Nxe4 (Schmid Defence)
+4...exd4 5.Nd5 (Belgrade Gambit)
+5...Be7 (main line)
+5...Nb4 (Knight exchange line)
+5...Nxd5 (Queen exchange line)
+5...Nxe4 6.Qe2 f5 (modern line)
+4...Bb4 5.Nxe5 (Krause Variation)
+5...Qe7 (Leonhardt Defence)
+4...Bb4 5.d5 (Closed Variation)
+4.Bc4 (Italian Variation)
+4.g3 (Glek System)
+4.Nxe5?! (Halloween Gambit)
+
+
+Spanish Variation: 4.Bb5
+
+This move results in a position similar to the Ruy Lopez but with knights on c3 and f6.
+Black's most common move is the symmetrical 4...Bb4 (the Double Spanish Variation). In the vast majority of games, kingside castling (5.0-0 0-0) occurs on the fifth move for both White and Black. In most of the rest, it occurs soon after and transposes to one of the known variations. Following castling, the most common continuations are 6.d3 d6, 6.d3 Bxc3 7.bxc3, 6.Bxc6 dxc6, and 6.Nd5.
+A common alternative for Black is the unbalancing 4...Nd4, the Rubinstein Variation or Rubinstein Countergambit.
+
+
+Symmetrical Variation: 4...Bb4 5.0-0 0-0 6.d3 d6
+
+Black mirrors White's development. With 6.d3 d6, the game is closed. Common continuations include 7.Bg5, 7.Ne2, and 7.Bxc6 bxc6, with 7.Bg5 generally regarded as the most aggressive, aiming to pin Black’s knight and exert pressure on the center.
+After 7.Bg5, Black should avoid mirroring White with 7...Bg4, as 8.Bxf6 Qxf6 (or 8...gxf6 9.Bxc6 bxc6 10.h3 Bh5 11.g4 Bg6 12.Ne2; or 8...Bxf3 9.Qxf3 Qxf6 10.Qxf6 gxf6 11.Nd5, leaving Black's king exposed) 9.Nd5 Qd8 10.Bxc6 bxc6 11.Nxb4 wins a piece for White.
+The main line of the variation is 7.Bg5 Bxc3 8.bxc3 Qe7 9.Re1 Nd8 10.d4 Ne6. The move 8...Qe7 was first played by Johannes Metger, with the idea of 9...Nd8 followed by 10...Ne6, aiming to dislodge the bishop pinning the knight.
+After 7.Ne2, the main line is 7...Ne7 8.c3 Ba5 9.Ng3 c6 10.Ba4 Ng6 11.d4.
+7.Bxc6 bxc6 8 Ne2 is a less common alternative.
+
+
+Janowski Variation: 6.d3 Bxc3 7.bxc3 d6
+This is Black's main alternative to 6...d6. White is forced to play 7.bxc3 instead of 7.dxc3. 7...d5 and 7...Qe7 are also seen.
+
+
+Nimzowitsch Variation: 6.Bxc6 dxc6
+This is White's only notable alternative to 6.d3.
+
+
+Rubinstein Countergambit: 4....Nd4
+Black can play more aggressively with this line, named after Akiba Rubinstein.
+
+
+Main line: 5.Ba4
+
+This is White's most common move. Black usually continues in gambit fashion with 5...Bc5, a common line being 6.Nxe5 0-0 7.Nd3 Bb6 8.e5 Ne8 followed by ...d6. Black has the alternatives 5...c6 and 5...Nxf3.
+
+
+Modern line: 5.Bc4
+A common continuation is 5...Bc5 6.Nxe5 Qe7 7.Nf3 d5. This might continue 8.Bxd5 Bg4 9.d3 0-0-0 10.Be3 Nxd5 11.Nxd5 Rxd5 12.exd5 Re8 or 8.Nxd5 Qxe4+ 9.Ne3 Bg4 10.Be2 Nxe2 11.Qxe2 0-0-0 12.d3.
+Other lines include 5...Nxf3 6.Qxf3 (or 6.gxf3), as well as 5...d6 6.Nxd4 exd4 7.Nd5, and 5...c6 6.Nxe5 (or 6.0-0) d5 7.exd5 Bd6 8.Nf3.
+
+
+Exchange Variation: 5.Nxd4 exd4
+This variation is very drawish and discourages many ambitious Black players from playing the Rubinstein. It usually continues into the larger exchange 6.e5 dxc3 7.exf6 Qxf6 (7...cxd2+? 8.Bxd2 Qxf6 9.0-0 is dangerous for Black) 8.dxc3. Black may then play 8...Qe5, continuing 9.Qe2 Qxe2+ 10.Bxe2 (or 10.Kxe2). 8...Bc5 and 8...c6 are the main alternatives.
+
+
+Henneberger Variation: 5.0-0
+This usually continues 5...Nxb5 6.Nxb5 c6 7.Nc3 d6 8.d4 Qc7, or Black may play 5...c6.
+
+
+Bogoljubov Variation: 5.Nxe5
+White cannot win a pawn with 5.Nxe5 because Black regains it with the advantage of the bishop pair after 5...Qe7 6.Nf3 (6.f4 Nxb5 7.Nxb5 d6) Nxb5 7.Nxb5 Qxe4+ 8.Qe2 Qxe2+ 9.Kxe2 Nd5 10.c4 a6!; an alternative is 7...d6 8.Nf3 Qxe4+ 9.Kf2 Ng4+.
+
+
+Classical Variation: 4...Bc5
+The classical move 4...Bc5 is perfectly playable, see the famous game Louis Paulsen–Paul Morphy from the First American Chess Congress (1857).
+
+
+Other lines
+4...Bd6 takes the sting out of 5.Bxc6, which is met with 5...dxc6 with a good game. If White plays quietly, Black will regroup with ...0-0, ...Re8, ...Bf8, and ...d6.
+4...a6 usually ends up transposing to the Scotch Variation after 5.d4 exd4 or to the Tarrasch Variation of the Ruy Lopez after 5.Ba4. More often, it enters the Rankin Variation after 5.Bxc6. A relatively forcing line continues 5...dxc6 6.Nxe5 Nxe4 7.Nxe4 Qd4 8.0-0 Qxe5.
+4...d6 usually ends up transposing to the Scotch Variation after 5.d4 exd4 or to the Berlin Defence of the Ruy Lopez after 5.d4 Bd7.
+
+
+Scotch Variation: 4.d4
+If White plays 4.d4, the Scotch Four Knights Game arises. More often than not, play continues with 4...exd4 5.Nxd4, which continues into the main line.
+The position is also often reached from the Scotch Game, typically via 3.d4 exd4 4.Nxd4 Nf6 5.Nc3. One reason White may choose the Four Knights move order (3.Nc3) over the Scotch Game (3.d4), besides fearing that after 3...exd4 4.Nxd4 Black may choose 4...Bc5 or 4...Qh4, is to play the Belgrade Gambit (3.Nc3 Nf6 4.d4 exd4 5.Nd5!?), outlined later in this article. It is not possible to reach the Belgrade from the Scotch Game; however, the Belgrade is a distant second in popularity to 5.Nxd4.
+
+
+Main line: 4...exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3
+
+This variation was played in the fifth game of the 1996 Deep Blue versus Garry Kasparov match. The usual continuation is 7...d5 8.exd5 cxd5 9.0-0 0-0, but other orders are possible, such as 7...0-0 8.0-0 d5 9.exd5 cxd5 or 7...d5 8.exd5 0-0 9.0-0 cxd5. Black may also opt into a queen trade with Qe7+ at some points before castling has occurred.
+
+
+7...d5 8.exd5 cxd5 9.0-0 0-0
+This is an extremely commonly reached position. White typically continues with 10.Bg5 or 10.h3. Both are usually followed by 10...c6 11.Qf3.
+
+
+Other lines
+Black can avoid the above lines with 7...0-0 8.0-0 Re8.
+
+
+Belgrade Gambit: 4...exd4 5.Nd5
+
+Black's most common replies are 5...Be7, 5...Nb4, 5...Nxd5, and 5...Nxe4.
+
+
+5...Be7
+The main line continues 6.Bf4 d6 7.Nxd4 0-0 8.Nb5 Nxd5 9.exd5 Ne5.
+
+
+5...Nb4
+Following 5...Nb4, White usually responds with either 6.Bc4, 6.Nxf6, or 6.Nxd4. Usual continuations are:
+
+6.Bc4 Nbxd5 7.exd5 Bb4+ 8.Bd2 Qe7+ 9.Qe2 Bxd2+ 10.Kxd2 Qxe2+ 11.Kxe2;
+6.Nxf6 Qxf6 7.Bc4 (or 7.a3);
+6.Nxd4 Nbxd5 7.exd5 Nxd5 (6...Nfxd5 transposes to the same position), leaving Black up a pawn while both sides only have a single knight developed. 6...Nxe4 is an alternative for Black that avoids the exchange of knights.
+
+
+5...Nxd5
+The usual continuation is 6.exd5 Bb4+ 7.Bd2 Qe7+ 8.Qe2 Bxd2+ 9.Kxd2 Qxe2+ 10.Bxe2, followed by 10...Ne7 or 10...Nb4.
+
+
+5...Nxe4
+A more modern continuation is 5...Nxe4 6.Qe2 f5. White also has the alternatives 6.Bc4 and 6.Bd3.
+
+
+Krause Variation: 4...Bb4 5.Nxe5
+
+White's knight captures Black's pawn with the support of the pawn on d4. Black usually responds with 5...Qe7, 5...Nxe4, 5...0-0, or 5...Bxc3.
+The Leonhardt Defence begins with 5...Qe7, typically continuing 6.Qd3, followed by 6...Nxe5, 6...Nxd4, or 6...Bxc3, or alternatively 6.Nxc6 Qxe4 and then 7.Be2 or 7.Qe2.
+The line following 5...Nxe4 most often continues 6.Qg4 Nxc3 7.Qxg7 Rf8 8.a3. Following this Black has the options of 8...Ba5, usually continuing 9.Nxc6 dxc6 10.Qe5+ Qe7 11.Qxe7+ Kxe7 12.Bd2 Bf5, or 8...Nxd4, usually continuing 9.axb4 Nxc2+ 10.Kd2 Nxa1 11.Kxc3, followed by 11...a5 or 11...Qe7.
+After 5...0-0, White most often replies with 6.Qd3, 6.Nxc6, or 6.Bd3. 5...Bxc3 often continues 6.Bxc3 Qe7.
+
+
+Other lines
+5.d5 is White's main alternative to entering the Krause. A common continuation is 5...Ne7 6.Nxe5.
+5.Nxd4 Bc5 is an alternative to the Scotch main line, typically continuing 6.Be3 Bb6 or 6.Nxc6 bxc6 7.Bd3.
+5.Nxd4 Nxe4 is the Schmid Defence, typically continues 6.Nxe4 Qe7 7.f3 (or 7.Bd3) d5 and then 8.Bb5 Bd7 9.Bxc6 Bxc6 or 8.Nxc6 bxc6.
+5...d6 is a quieter move. It may transpose to the Spanish Variation after 6.Bb5.
+
+
+Italian Variation: 4.Bc4
+
+A further possibility is 4.Bc4, popular in the 1880s, though this line is regarded as inferior according to Pinski, and an outright mistake by International Master Larry D. Evans. It was used successfully by Nigel Short against Antoaneta Stefanova in 2003.
+The criticism of the move lies in the fact that Black can perform a fork trick by pseudo-sacrificing a knight with the strong move 4...Nxe4. This position commonly arises by transposition from the Two Knights Defence. Alternatively, Black can avoid the complications of the line and preserve the symmetry by 4...Bc5, transposing to the quiet Giuoco Pianissimo. A better move order for White that leads to this position is via the Giuoco Piano by 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 Nf6.
+Following 4...Nxe4, White usually plays 5.Nxe4, allowing the fork trick. 5.Bxf7+, a superficially attractive sacrifice, relinquishes the bishop pair and central control to Black. After 5...Kxf7 6.Nxe4 d5 7.Neg5+ Kg8, White's attack peters out. Black is already threatening 8...e4, and after 8.d3 h6 9.Nh3 Bg4, has a very powerful position, with an unopposed light-squared bishop, a strong duo of pawns in the centre, and a safe king.
+
+
+Main line: 4...Nxe4 5.Nxe4
+The main line continues d5 6.Bd3 dxe4 7.Bxe4 Bd6. The recently discovered 6...Nb4 is also playable.
+Following this, a common line continues 8.d4 Nxd4 9.Nxd4 exd4 10.Qxd4 0-0 11.Be3 (11.0-0?? Bxh2+ wins) Qe7 (Tartakower–Atkins, London 1922) and now the natural 12.0-0 Be5 would be awkward for White. In the above line, more ambitious is 8...exd4 9.Nxd4 0-0!?, as in a match game between Siegbert Tarrasch and Emanuel Lasker in 1916, which led to a Black win in 23 moves.
+6.Bxd5? Qxd5 7.Nc3 Qd8 Estrin and 6.Bb5?! dxe4 7.Nxe5 Qg5! Collijn's Lärobok are weak.
+
+
+5.0-0
+This line is closely related to the Boden–Kieseritzky Gambit, from which it can be reached and to which it can transpose. The main line continues 5...Nxc3 6.dxc3 Be7 7.Qd5 0-0 8.Nxe5 Nxe5 9.Qxe5.
+
+
+Glek System: 4.g3
+This is a modern try advocated by Igor Glek, preparing development of the bishop to g2. The system can also be reached from the Konstantinopolsky Opening (3.g3) via 3...Nf6 4.Nc3.
+According to Pinski, Black's main responses are 4...Bc5 and 4...d5, both of which are reckoned to equalize for Black. A Halloween Gambit style 4...Nxe4 has also been tried at the grandmaster level as in two games between Ilya Smirin and Bartłomiej Macieja.
+
+
+Halloween Gambit: 4.Nxe5?!
+
+A dubious and rarely played gambit is 4.Nxe5?!, where White gives up a knight for a pawn in order to gain a massive lead in development. Black almost always recaptures the hanging knight with 4...Nxe5. After this, White plays 5.d4 to seize the centre and drive the black knights back to their home squares. The most common continuation is 5...Ng6 6.e5 Ng8 7.Bc4.
+Black may also return the knight for a simpler game, usually with 6...Bb4, 6...Be7, or 6...Qe7, or offer a transposition to the Stafford Gambit with 4...Bc5. White may either accept with 5.Nxc6 dxc6, retreat with 5.Nf3 or 5.Nd3, or leave the knight free for Black to capture and develop instead.
+The main line continues 5.d4 Ng6 6.e5 Ng8 7.Bc4. According to Max Euwe, Black has a decisive advantage after 7...d5 8.Bxd5 c6. 5.d4 Nc6 is also a strong option. Larry Kaufman claimed that 6.d5 Bb4! 7.dxc6 Nxe4 8.Qd4 Qe7 refuted the gambit, which he attributes to Jan Pinski.
+
+
+Other lines
+4.Be2 is rarely seen but playable. For example, if Black plays 4...Bb4, White has the responses 5.Nd5, 5.0-0, and 5.d3, which retain equality with accurate play. It may also be reached from the Tayler Opening (3.Be2) via 3...Nf6 4.Nc3.
+4.a3 is the Gunsberg Variation. It is a quiet waiting move and is a specialty of Polish grandmaster Paweł Blehm.
+4.h3 is another common waiting move and denies Black the option of a later ...Bg4.
+4.a4 is a rarely seen waiting move.
+4.Nd5 is the Naroditsky variation. It has a similar idea to the Belgrade Gambit.
+
+
+ECO
+The Encyclopaedia of Chess Openings has three codes for the Four Knights Game:
+
+C49: 4.Bb5 Bb4 (Symmetrical Variation)
+C48: 4.Bb5 without 4...Bb4
+C47: 4.d4 and others
+
+
+See also
+Italian Game
+Ruy Lopez
+Scotch game
+Three Knights Game
+Two Knights Defence
+
+
+References
+
+Bibliography
+
+Harding, T. D.; Botterill, G. S. (1977). "Two Knights: Other Lines". The Italian Game. B. T. Batsford Ltd. pp. 119–27. ISBN 0-7134-3261-6.
+Keene, Raymond; Kasparov, Garry (1994) [1989]. Batsford Chess Openings (2nd ed.). B.T. Batsford Ltd. ISBN 0-8050-3409-9.
+Pinski, Jan (2003). The Four Knights. Everyman Chess. ISBN 1-85744-311-X.
+
+
+Further reading
+Obodchuk, Andrey (2011). The Four Knights Game. New in Chess. ISBN 978-90-5691-372-4.
+
+
+External links
+
+Tim Krabbé's article on the Halloween Gambit
+Unorthodox Openings Newsletter #13, Critical Lines in the Halloween Gambit by Paul Keiser

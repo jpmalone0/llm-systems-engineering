@@ -1,0 +1,57 @@
+The Réti Opening is a chess opening whose "traditional" or "classic method" begins with the moves:
+
+1. Nf3 d5
+2. c4
+White attacks Black's pawn from the flank. If Black defends the pawn with 2...c6 or 2...e6, this transposes to the English Opening. Thus, the two main independent lines of the Réti begin with either Black pushing by with 2...d4, keeping the game closed, or capturing with 2...dxc4, opening the game. The former line resembles a Benoni Defense with the colors reversed. Similarly to Black in the Benoni, White usually fianchettoes the kingside bishop.
+The opening is named after Czechoslovak chess player Richard Réti (1889–1929). It is considered a hypermodern opening due to White's avoidance of direct occupation of the center with pawns, unlike most openings. Réti championed the hypermodernism movement, which advocated the center being dominated from the wings rather than by direct occupation, and the opening reflects his style. White often fianchettoes both bishops, castles kingside, and avoids playing e4 and d4, instead expanding on the queenside, frequently playing b4. The result of this may be described as the Réti System.
+In the Encyclopaedia of Chess Openings, the opening is found in codes A04–A09, where it is closely associated with the King's Indian Attack. The opening was employed by Gukesh Dommaraju in the eleventh game of the World Chess Championship 2024 against Ding Liren, resulting in a win for Gukesh.
+
+
+History
+
+According to Réti, the opening was introduced into master play in the early part of 1923. Réti used the opening most famously to defeat José Raúl Capablanca, the reigning World Chess Champion, in a game at the 1924 New York tournament. Alexander Alekhine played the Réti in the 1920s, but at that time almost any game that began with Nf3 and c4 by White was considered to be the Réti. Réti popularized these moves against all defenses in the spirit of hypermodernism, and as the opening developed it gained structure and a clearer distinction between it and other openings.
+Hans Kmoch called the system of attack employed by Réti in the game Réti–Rubinstein, Karlovy Vary 1923, the "Réti Opening" or the "Réti System". Savielly Tartakower called the opening the "Réti–Zukertort Opening", and said of 1.Nf3: "An opening of the past, which became, towards 1923, the opening of the future."
+
+
+Classic method: 2.c4
+In modern times the Réti refers only to the configuration Nf3 and c4 by White with ...d5 by Black, where White fianchettos at least one bishop and does not play an early d4.
+After 2.c4 (ECO code A09), Black's choices are:
+
+2...e6 or 2...c6 (holding the d5-pawn)
+2...dxc4 (giving up the d5-pawn)
+2...d4 (pushing the pawn)
+If Black takes the pawn, then in the same manner as the QGA, 3.e3 or 3.e4 regains the pawn with a slight advantage to White, as Black is left somewhat undeveloped. 3.Na3 and 3.Qa4+ are also good, and commonly played. This variety of White options limits the popularity of 2...dxc4. Trying to protect the pawn with 3...b5?! allows 4.a4! leaving White with a superior position. The alternatives 2...d4, 2...c6, and 2...e6 are more common, with the latter two generally leading to a Queen's Gambit type of position, and 2...d4 typically being answered with the solid 3.e3 or the interesting and sharper 3.b4, resembling a Benko Gambit with the colors reversed, although Black lacks a pawn on c5.
+
+
+Transpositions
+
+After 2.c4 e6 (diagram):
+
+3.d4 transposes to the Queen's Gambit Declined.
+3.g3 Nf6 is the Neo-Catalan Opening; after 4.Bg2, Black may play ...Be7 or ...dxc4.
+After 4...Be7, 5.d4 transposes to a Closed Catalan.
+After 4...dxc4, White's most common reply is 5.Qa4+, and this will not correspond to a 1.d4 line.
+After 2.c4 c6:
+
+3.d4 transposes to the Slav Defense.
+After 3.e3 Nf6:
+4.d4 transposes to the Slow Slav.
+After 4.Nc3 e6, 5.d4 transposes to the Semi-Slav. A separate option for White is 5.b3.
+
+
+See also
+Flank opening
+List of chess openings
+List of chess openings named after people
+Tennison Gambit, 1.Nf3 d5 2.e4
+
+
+References
+
+
+Further reading
+
+Davies, Nigel (2004). The Dynamic Reti. Everyman Chess. ISBN 978-1-85744-352-3.
+Delchev, Alexander (2012). The Modern Reti - An Anti-Slav Repertoire. Chess Stars. ISBN 978-9548782876.
+Demuth, Adrien (2017). The Modernized Reti. Thinkers Publishing. ISBN 978-9492510181.
+Dunnington, Angus (1998). Easy Guide to the Reti Opening. Cadogan. ISBN 978-1-85744-518-3.

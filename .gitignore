@@ -1,0 +1,16 @@
+# Model artifacts
+*.safetensors
+*.pt
+*.bin
+/lora_dialogsum/
+/wandb/
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+.envrc
+.env
+!uv.lock.env

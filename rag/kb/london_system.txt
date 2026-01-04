@@ -1,0 +1,63 @@
+The London System is an opening system in chess characterized by the moves (with any first move by Black):
+
+1. d4
+2. Bf4
+In addition to these moves, in the standard system, White supports the d pawn and bishop with a pawn on e3, the other bishop is developed to d3, the knights are developed to f3 and d2, and the d pawn is reinforced again by c3. However, some variation exists; for example, Nc3 can be played instead of c3, entering the Rapport–Jobava System (or Jobava London).
+The system can be used against virtually any Black response (although most popular against 1...d5) and thus comprises a smaller body of opening theory than many other openings. Black's most common response to the system involves playing c5 and Qb6 (pressuring White's now undefended pawn). White also has great flexibility in move order (2.Nf3 and then 3.Bf4 is common), and the system has many transpositional opportunities. For example, White can transpose to the Queen's Gambit with c4 (instead of c3 or Nc3), and Black can transpose to the Caro–Kann Defence with ...cxd4 exd4.
+White's set-up often results in a closed game, and often involves a plan to put a knight on e5, supported by the pawn and bishop. Although it has a reputation as a solid opening, the London System has been criticized for resulting in repetitive games and a lack of dynamic play. White can instead adopt a more flexible and theoretical approach after 2.Bf4, rather than committing to the same initial moves regardless of Black's response, often resulting in a more dynamic game.
+In the Encyclopaedia of Chess Openings, the opening is not assigned its own unique codes, but it appears in lines within A46 (against 1...Nf6 without g6), A48 (against 1...Nf6 with g6), and D02 (against 1...d5). The opening was employed by Ding Liren in the sixth game of the World Chess Championship 2023 against Ian Nepomniachtchi, resulting in a win for Ding.
+
+
+History
+The Irish-American James Mason was the first master-level player to regularly employ the London System, including at the strong 1882 Vienna Tournament (in which he finished third) and later at tournaments at London (1883) and New York (1889). The opening did not catch on, and received limited outings in master play in subsequent decades. It did, however, appear with some regularity in the games of certain masters, including F.J. Lee, Joseph Henry Blackburne, David Janowski, and Akiba Rubinstein.
+The name London System derives from the reappearance of the opening on seven occasions in the very strong London tournament of 1922, including in games by José Raúl Capablanca, Alexander Alekhine and Akiba Rubinstein. After this tournament the opening remained rare in master practice, but the London set-up soon became the standard response for Black against the Réti Opening (this line being named the New York Variation, after its use in Réti–Capablanca during the New York 1924 tournament).      
+Although the London System remains rare in grandmaster tournaments, it has been played occasionally by players including Bent Larsen, Tony Miles, Teimour Radjabov, Vladimir Kramnik and Fabiano Caruana, and more frequently by players such as Gata Kamsky, Levon Aronian and Magnus Carlsen. During the 21st century the London System has become popular amongst club-level players due to its solid nature, clear plans and lack of aggressive responses by Black. One of the most famous games of the 21st century utilizing the London System was round 6 of the 2023 World Chess Championship between Ding Liren and Ian Nepomniachtchi, in which Ding used it to win with the white pieces.
+
+
+White set-up
+The London System consists of a set-up for White employing the following moves (which can be played in a variety of move orders): d4, Nf3, Bf4, e3, Bd3, Nbd2, c3. The move h3 is often also played, enabling the bishop on f4 to drop back to h2 if attacked, thus remaining on the same diagonal and continuing to influence e5.
+Following the publication of the influential 2005 work Win with the London System by Sverre Johnsen and Vlatko Kovačević, it has become common for White to prefer to develop the queen's bishop to f4 on move 2 (rather than opting for 2.Nf3 and then 3.Bf4, as had previously been common). Johnsen and Kovačević note that, in the case of 2.Nf3, if play proceeds 2...c5 3.Bf4?!, then 3...cxd4 4.Nxd4 Nd7 "may already be better for Black". Meanwhile, Kiril Georgiev notes in Fighting the London System that "The idea of delaying the [Nf3] development is to avoid the famous line [1.d4 d5] 2.Nf3 Nf6 3.Bf4 c5 4.e3 Nc6 5.c3 Qb6 6.Qb3 c4 7.Qc2 Bf5, when White should retreat [the queen] ingloriously to c1."
+The rapid development of the dark-squared bishop in the London System can be contrasted with the Colle System, in which the queen's bishop is typically developed to b2 or remains on c1 during the opening phase of the game. It also contrasts with the Trompowsky Attack (if Black plays 1...Nf6) and Hodgson Attack (if Black plays 1...d5), where White develops the bishop to g5 instead of f4.
+
+
+Black responses
+White's future plans will depend upon Black's choice of set-up. Black has a particularly wide range of possibilities in the early stages as White's London structure exerts little influence on Black's side of the board. Black may therefore develop freely. Common options include:
+
+Queen's Gambit Declined-type defence: d5, e6, Nf6, c5, Nc6 (or d7), Bd6 (or e7), 0-0. Black stakes out some space on the queenside. The position will likely resemble a Slav Defence with colours reversed. White will typically post his king's knight on e5 and aim for a kingside attack.
+Queen's Indian-type defence: Nf6, b6, Bb7, e6, d6, Be7, Nbd7. Black adopts a flexible hypermodern defence, preventing a knight incursion on e5, and then waits to see how White will proceed before deciding on the placement of the central pawns and on which side to castle.
+King's Indian-type defence: Nf6, g6, Bg7, d6, 0-0. Black will typically aim for either ...e5 (after suitable preparation with Nbd7 and Re8) or ...c5 (in which case the game will resemble a Réti Opening with colours reversed). White may prefer to post the king's bishop on e2 rather than d3 in this line, as Black's fianchetto structure means that a bishop on d3 would have limited scope.
+Symmetrical defence: d5, Bf5, Nf6, e6. Black mirrors White's development. White's strongest response is considered to be transposing to Queen's Gambit, where there is a sharp line continuing with 4.e3 e6 5.c4 Bxb1 6.Qxb1 Bb4+ 7.Kd1, with White winning the bishop pair at the cost of castling rights. Without transposing, the line tends to be very drawish.
+Other options for Black include playing the Hippopotamus Defence (g6, Bg7, b6, Bb7, d6, e6, Ne7, Nd7), in which case White will probably have little option but to play e3–e4, losing a tempo, and a knight on d2 may not be optimally placed. Additional options for Black include Slav-type structures (d5/c6), Grünfeld-type structures (Nf6/g6/Bg7/d5), reversed Torre Attack (d5/Nf6/Bg4), and Chigorin-type play (d5/Nc6/Bg4).
+A popular response to the London System at higher levels of play is an early ...c5, allowing ...Qb6 (aiming at White's weak b2-pawn, which is no longer defended by a bishop on c1). This seeks to disrupt White's comfortable development system. The line 1.d4 Nf6 2.Bf4 c5 3.e3 Qb6 was considered by Johnsen and Kovačević to be the most critical line.
+
+
+Jobava London
+
+The Rapport–Jobava System, a modern development named after grandmasters Richárd Rapport and Baadur Jobava, most commonly called the Jobava London, has considerable attacking value. It combines Bf4 with Nc3 (this knight would usually be developed to d2 in the standard London System), creating potential threats against Black's c7. The system is particularly common after Black fianchettoes with g6 and Bg7, as the fianchettoed bishop cannot assist in defending c7.
+
+
+Example games
+Gata Kamsky vs. Samuel Shankland; Sturbridge, Massachusetts 2014: 1.d4 Nf6 2.Bf4 d5 3.e3 e6 4.Nd2 c5 5.c3 Nc6 6.Ngf3 Bd6 7.Bg3 0-0 8.Bd3 Qe7 9.Ne5 Nd7 10.Nxd7! Bxd7?! 11.Bxd6 Qxd6 12.dxc5 Qxc5? 13.Bxh7+!! Kxh7 14.Qh5+ Kg8 15.Ne4 Qc4 16.Ng5 Rfd8 17.Qxf7+ Kh8 18.Qh5+ Kg8 19.Rd1! e5 20.Qf7+ Kh8 21.e4 Ne7 22.Qxe7 Bb5 23.Rd2 Qxa2 24.Qf7 Qa1+ 25.Rd1 Qxb2 26.Qh5+ Kg8 27.Qh7+ Kf8 28.Qh8+ Ke7 29.Qxg7+ Kd6 30.Rxd5+ Kc6 31.Qf6+ 1–0
+Magnus Carlsen vs. Evgeny Tomashevsky, Wijk aan Zee NED 2016: 1.d4 Nf6 2.Nf3 e6 3.Bf4 b6 4.e3 Bb7 5.h3 Be7 6.Bd3 0-0 7.0-0 c5 8.c3 Nc6 9.Nbd2 d5 10.Qe2 Bd6 11.Rfe1!? Ne7?! 12.Rad1 Ng6?! 13.Bxg6! hxg6 14.Bxd6! Qxd6 15.Ne5 g5 16.f4!! gxf4 17.Rf1! Nd7! 18.Qh5! Nf6?! 19.Qh4! Qd8 20.Rxf4 Ne4? 21.Nxe4 Qxh4 22.Rxh4 dxe4 23.dxc5 bxc5 24.Rd7! Rab8 25.b3! a5 26.Rc7 a4 27.bxa4 Ba8 28.a5 Rb7 29.Rxc5 Ra7 30.Nc4 1–0 (Black resigns)
+Ding Liren vs. Ian Nepomniachtchi, Astana KAZ, World Championship 2023: 1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3 Nc6 5.Nbd2 cxd4 6.exd4 Bf5 7.c3 e6 8.Bb5 Bd6 9.Bxd6 Qxd6 10.0-0 0-0 11.Re1 h6 12.Ne5 Ne7 13.a4 a6 14.Bf1 Nd7 15.Nxd7 Qxd7 16.a5 Qc7 17.Qf3 Rfc8 18.Ra3 Bg6 19.Nb3 Nc6 20.Qg3 Qe7 21.h4 Re8 22.Nc5 e5 23.Rb3 Nxa5 24.Rxe5 Qf6 25.Ra3 Nc4 26.Bxc4 dxc4 27.h5 Bc2 28.Nxb7 Qb6 29.Nd6 Rxe5 30.Qxe5 Qxb2 31.Ra5 Kh7 32.Rc5 Qc1+ 33.Kh2 f6 34.Qg3 a5 35.Nxc4 a4 36.Ne3 Bb1 37.Rc7 Rg8 38.Nd5 Kh8 39.Ra7 a3 40.Ne7 Rf8 41.d5 a2 42.Qc7 Kh7 43.Ng6 Rg8 44.Qf7 1–0 (Black resigns)
+
+
+See also
+List of chess openings
+List of chess openings named after places
+
+
+References
+
+
+Bibliography
+Georgiev, Kiril (2017). Fighting the London System. Chess Stars. ISBN 978-6197188158.
+Johnsen, Sverre; Kovačević, Vlatko (2005). Win with the London System (1st ed.). Gambit Publications. ISBN 978-1904600350.
+
+
+Further reading
+Lakdawala, Cyrus (2010). Play the London System. Everyman Chess. ISBN 978-1-857-44639-5.
+Sedlak, Nikola (2016). Winning with the Modern London System. Chess Evolution. ISBN 978-83-944290-9-6.
+
+
+External links
