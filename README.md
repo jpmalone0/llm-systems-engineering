@@ -37,13 +37,6 @@ Create a `.env` file in the root directory to store your API keys:
 ```bash
 touch .env
 ```
-### 2. Configure Environment
-
-Create a .env file in the root directory to store your API keys:
-
-```bash
-touch .env
-```
 
 Add your keys to `.env`:
 
