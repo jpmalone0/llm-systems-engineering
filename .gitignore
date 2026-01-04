@@ -5,8 +5,8 @@
 *.safetensors
 *.pt
 *.bin
-/lora_dialogsum/
-/wandb/
+fine-tuning-qlora/lora_dialogsum/
+wandb/
 
 # Python cache
 __pycache__/
@@ -14,6 +14,7 @@ __pycache__/
 
 # Environment
 .venv/
+.venv
 .envrc
 .env
 !uv.lock.env
