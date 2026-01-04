@@ -26,10 +26,9 @@ This project uses **uv** for dependency management to ensure a reproducible envi
 # Clone the repository
 git clone <your-repo-url>
 cd llm-systems-engineering
-
 # Install dependencies (creates .venv automatically)
 uv sync
-
+```
 
 ### 2. Configure Environment
 
