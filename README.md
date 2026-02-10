@@ -13,7 +13,7 @@ A collection of practical implementations demonstrating different LLM system arc
 ## Tech Stack
 
 * **Language:** Python 3.11
-* **Manager:** uv (for fast dependency management)
+* **Manager:** uv
 * **Core Libraries:** torch, transformers, peft, bitsandbytes, langchain, google-generativeai
 
 ## Quick Start
@@ -24,7 +24,7 @@ This project uses **uv** for dependency management to ensure a reproducible envi
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/jpmalone0/llm-systems-engineering.git
 cd llm-systems-engineering
 # Install dependencies (creates .venv automatically)
 uv sync
